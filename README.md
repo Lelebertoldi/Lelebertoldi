@@ -36,7 +36,7 @@
 
 - Unifael - Ciências de Dados - Graduação 1º Período
 - DIO - Python AI Backend Developer
-- Santander Open Academy / Ada Tech - Santander Coders 2024
+- Santander Open Academy / Ada Tech - Trilha Digital | Coders 24 | Engenharia de dados
 - Udemy - Python - Aprenda os fundamentos
 
 ---
