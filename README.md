@@ -25,7 +25,7 @@
 ![PowerBi](https://img.shields.io/badge/Power_Bi-000?styleborder_radius&logo=powerbi&logoColor=purple)
 ![SQL](https://img.shields.io/badge/SQL-000?styleborder_radius&logo=microsoft%20sql%20server&logoColor=purple)
 ![Postgres](https://img.shields.io/badge/postgres-000?styleborder_radius&logo=postgresql&logoColor=purple)
-
+![Docker](https://img.shields.io/badge/docker-000?styleborder_radius&logo=docker&logoColor=purple)
 
 
 ---
