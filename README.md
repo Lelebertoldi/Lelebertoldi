@@ -23,6 +23,10 @@
 ![Java](https://img.shields.io/badge/java-black?style=border_radius&logo=openjdk&logoColor=purple)
 ![VSCode](https://img.shields.io/badge/VSCode-black?style=border_radius&logo=visual-studio-code&logoColor=purple)
 ![PowerBi](https://img.shields.io/badge/Power_Bi-000?styleborder_radius&logo=powerbi&logoColor=purple)
+![SQL](https://img.shields.io/badge/SQL-000?styleborder_radius&logo=microsoft%20sql%20server&logoColor=purple)
+![Postgres](https://img.shields.io/badge/postgres-000?styleborder_radius&logo=postgresql&logoColor=purple)
+
+
 
 ---
 # 🏆 Estudos Tech concluídos até o momento
@@ -30,13 +34,14 @@
 - DATA MUNDO - Excel para Análise de Dados
 - DATA MUNDO - Power BI for Business 2.0
 - DIO - Bootcamp Nexa - Fundamentos de IA Generativa e Claude 3
+- DIO - Versionamento de Código com Git e GitHub
+- Santander Open Academy / Ada Tech - Trilha Digital | Coders 24 | Engenharia de dados
 
 ---
 # 📚 Estudos Tech em andamento
 
 - Unifael - Ciências de Dados - Graduação 1º Período
 - DIO - Python AI Backend Developer
-- Santander Open Academy / Ada Tech - Trilha Digital | Coders 24 | Engenharia de dados
 - Udemy - Python - Aprenda os fundamentos
 
 ---
