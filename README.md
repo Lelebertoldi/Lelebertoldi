@@ -4,7 +4,7 @@
 
 
 ---
-> Me chamo Letícia, tenho 35 anos e estou em transição de carreira da área de Biologia para a área Tech. Atualmente estou iniciando meus estudos em Ciência de Dados na Universidade Unifael e faço vários cursos complementares, principalmente na área de programação, para expandir meu conhecimento e minhas opções.
+> Me chamo Letícia, tenho 35 anos e estou em transição de carreira da área de Biologia para a área Tech. Atualmente estou iniciando meus estudos em Ciência de Dados na Universidade Unifael e faço vários cursos complementares, para expandir meu conhecimento e minhas opções.
 
 # 💌 Conecte-se comigo 
 
