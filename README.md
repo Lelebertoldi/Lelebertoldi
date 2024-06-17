@@ -47,6 +47,15 @@
 
 - Excel para Análise de Dados - [Certificado](https://datamundo.curseduca.pro/verify/dc01834d3324828f86b5be3f4b3dcc6541bfec6c)
 - Power BI for Business 2.0 - [Certificado](https://datamundo.curseduca.pro/verify/c883f66c7829aadbdbf8763463b07f391e8572df)
+  - Power BI | Basics
+  - Case | Auto Solutions
+  - Power Query | Consultas
+  - Power Query | Transformações
+  - Case | Bite Speed
+  - Modelagem de dados | Fundamentos
+  - DAX | Fundamentos
+  - Case | Tech Trends
+  - Power BI Service | Administração e compartilhamento 
 
 ---
 ## DIO
@@ -91,7 +100,7 @@
     - Desafio de Projeto: Otimizando o Sistema Bancário com Funções Python - [Certificado](https://www.dio.me/certificate/GMOE5OME/share)
     - Desafio de Código: Dominando os Fundamentos Básicos do Python - [Diretório](https://github.com/Lelebertoldi/desafios_de_codigo_DIO)
   
-  - Orientação a Objetos e Boas Práticas em Python - 
+  - Orientação a Objetos e Boas Práticas em Python - (Cursando)
     - Introdução à Programação Orientada a Objetos (POO) com Python - [Certificado](https://www.dio.me/certificate/4LPN798B/share)
     - Aprendendo o Conceito de Herança com Python - [Certificado](https://www.dio.me/certificate/ZLWRJPPM/share)
     
