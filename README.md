@@ -43,7 +43,7 @@
 - Introdução Ao Coding (Mobile)
 
 ---
-## <img width=10% src="https://files.curseduca.com/535d181a-9a99-43a6-af2c-a293e09b0e51/3a685abb42197edf411bb3d3a79d89f03b9e5630.webp"/>
+## <img width=10% src="https://hotmart.s3.amazonaws.com/product_pictures/8a3debf4-82f0-4521-b17d-9799e456708d/DATAMUNDOLOGO2.png"/>
 
 - Excel para Análise de Dados - [Certificado](https://datamundo.curseduca.pro/verify/dc01834d3324828f86b5be3f4b3dcc6541bfec6c)
 - Power BI for Business 2.0 - [Certificado](https://datamundo.curseduca.pro/verify/c883f66c7829aadbdbf8763463b07f391e8572df)
