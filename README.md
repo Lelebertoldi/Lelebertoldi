@@ -31,7 +31,7 @@
 ---
 # 🏆📚 Estudos Tech
 ---
-## 🎓 Unifael - Ciências de Dados - Graduação 
+## 🎓 <img width=10% src="https://asprars.org.br/uploads/parceiros/d9c9777bd7a7accebe02f6f9e7e3ac5c.jpeg"/> Unifael - Ciências de Dados - Graduação 
 
 ### 1º Período (Cursando)
 
@@ -43,7 +43,7 @@
 - Introdução Ao Coding (Mobile)
 
 ---
-## DATA MUNDO
+## <img width=10% src="https://files.curseduca.com/535d181a-9a99-43a6-af2c-a293e09b0e51/3a685abb42197edf411bb3d3a79d89f03b9e5630.webp"/>
 
 - Excel para Análise de Dados - [Certificado](https://datamundo.curseduca.pro/verify/dc01834d3324828f86b5be3f4b3dcc6541bfec6c)
 - Power BI for Business 2.0 - [Certificado](https://datamundo.curseduca.pro/verify/c883f66c7829aadbdbf8763463b07f391e8572df)
@@ -58,9 +58,9 @@
   - Power BI Service | Administração e compartilhamento 
 
 ---
-## DIO
+## <img width=12% src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg"/> 
 
-- Bootcamp Nexa - Fundamentos de IA Generativa e Claude 3 - [Certificado - 10 Hs](https://www.dio.me/certificate/MOAM0E7K/share)
+- <img width=5% src="https://hermes.dio.me/tracks/0cb208b8-6bf4-454b-9b12-9e9418ad0356.png"/> Bootcamp Nexa - Fundamentos de IA Generativa e Claude 3 - [Certificado - 10 Hs](https://www.dio.me/certificate/MOAM0E7K/share)
   - Introdução ao Mundo da Inteligência Artificial (IA) Generativa - [Certificado - 5 Hs](https://www.dio.me/certificate/R51EVBOE/share)
     - Introdução à Inteligência Artificial - [Certificado](https://www.dio.me/certificate/DG5WLZQF/share)
     - Aplicações e Impacto da IA no Mundo Atual - [Certificado](https://www.dio.me/certificate/OXADEDSF/share)
@@ -78,7 +78,7 @@
   
    
 
-- Python AI Backend Developer (Cursando)
+- <img width=5% src="https://hermes.dio.me/tracks/648ef080-6c4b-4e54-bf72-34f62030f350.png"/> Python AI Backend Developer (Cursando)
   - Python Essencial e Desenvolvimento Colaborativo com Git - [Certificado - 10 Hs](https://www.dio.me/certificate/JEDLAPKJ/share)
     - Ambiente de Desenvolvimento e Primeiros Passos com Python - [Certificado](https://www.dio.me/certificate/XSQOZERC/share)
     - Conhecendo a Linguagem de Programação Python - [Certificado](https://www.dio.me/certificate/1GTFETP4/share)
@@ -106,13 +106,14 @@
     
  
     
-- Desenvolvimento Java com IA (Cursando)
-- Data Analytics com Power BI (Cursando)
+- <img width=5% src="https://hermes.dio.me/tracks/be43294e-4b68-43b0-9f03-d4221f293c45.png"/> Desenvolvimento Java com IA (Cursando)
+- <img width=5% src="https://hermes.dio.me/tracks/533ac6c6-f653-40e1-8050-da19cd540fa4.png"/> Data Analytics com Power BI (Cursando)
 
 ---
-## Santander Open Academy / Ada Tech 
+## <img width=8% src="https://ada-comunidade-workspace-prd-bucket.s3.sa-east-1.amazonaws.com/public/workspace/public/logo-small.png"/> Santander Open Academy / Ada Tech 
 
 - Trilha Digital | Coders 24 | Engenharia de dados - [Certificado - 16 Hs](https://ada.tech/certificado?code=3029d134-a01f-a8c5-c76d-2a546a6b1bab/)
+
   - Engenharia vs Ciência de Dados
   - Git e versionamento
   - Redes e Sistemas
@@ -124,7 +125,7 @@
   - Web Scraping
 
 ---
-## Udemy 
+## <img width=13% src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Udemy_logo.svg/1200px-Udemy_logo.svg.png"/>
 
 - Python - Aprenda os fundamentos (Cursando)
 
