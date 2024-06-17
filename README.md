@@ -52,39 +52,48 @@
 ## DIO
 
 - Bootcamp Nexa - Fundamentos de IA Generativa e Claude 3 - [Certificado - 10 Hs](https://www.dio.me/certificate/MOAM0E7K/share)
-  - Introdução à Inteligência Artificial - [Certificado](https://www.dio.me/certificate/DG5WLZQF/share)
-  - Aplicações e Impacto da IA no Mundo Atual - [Certificado](https://www.dio.me/certificate/OXADEDSF/share)
-  - Aula Inaugural - Bootcamp Nexa Fundamentos de IA Generativa e Claude 3 - [Certificado](https://www.dio.me/certificate/M7IFXEEN/share)
-  - Introdução ao Mundo da Inteligência Artificial (IA) Generativa - [Certificado](https://www.dio.me/certificate/R51EVBOE/share)
-  - Amazon Bedrock: A Nova Era da Inteligência Artificial Generativa - [Certificado](https://www.dio.me/certificate/2BWUGBZ2/share)
-  - Desafios de Código: Aperfeiçoe Sua Lógica e Pensamento Computacional - [Certificado](https://www.dio.me/certificate/MZDBCP0O/share)
-  - Natural ou Fake Natty? Como Vencer na Era das IAs Generativas! - [Certificado](https://www.dio.me/certificate/TRJY30QP/share)
-  - Dominando IA Generativa com Claude 3 no Amazon Bedrock - [Certificado](https://www.dio.me/certificate/L6I0GP1U/share)
-  - Desafios de Projetos: Crie Um Portfólio Vencedor - [Certificado](https://www.dio.me/certificate/KXZITABS/share)
-    
+  - Introdução ao Mundo da Inteligência Artificial (IA) Generativa - [Certificado - 5 Hs](https://www.dio.me/certificate/R51EVBOE/share)
+    - Introdução à Inteligência Artificial - [Certificado](https://www.dio.me/certificate/DG5WLZQF/share)
+    - Aplicações e Impacto da IA no Mundo Atual - [Certificado](https://www.dio.me/certificate/OXADEDSF/share)
+    - Aula Inaugural - Bootcamp Nexa Fundamentos de IA Generativa e Claude 3 - [Certificado](https://www.dio.me/certificate/M7IFXEEN/share)
 
+  - Explorando IAs Generativas na AWS - 
+    - Amazon Bedrock: A Nova Era da Inteligência Artificial Generativa - [Certificado](https://www.dio.me/certificate/2BWUGBZ2/share)
+    - Dominando IA Generativa com Claude 3 no Amazon Bedrock - [Certificado](https://www.dio.me/certificate/L6I0GP1U/share)
+    - Amazon Q: IA Generativa como Copiloto de Programação Python - [Certificado](https://www.dio.me/certificate/DMZHI5LG/share) 
+    - Desafios de Código: Aperfeiçoe Sua Lógica e Pensamento Computacional - [Certificado](https://www.dio.me/certificate/MZDBCP0O/share)
+    - Desafios de Código: Treinando Desafios de Códigos com IAs Generativas - [Diretório](https://github.com/Lelebertoldi/desafios_de_codigo_DIO)
+    - Desafios de Projetos: Crie Um Portfólio Vencedor - [Certificado](https://www.dio.me/certificate/KXZITABS/share)
+    - Natural ou Fake Natty? Como Vencer na Era das IAs Generativas! - [Certificado](https://www.dio.me/certificate/TRJY30QP/share)
   
+  
+   
+
 - Python AI Backend Developer (Cursando)
-  - Amazon Q: IA Generativa como Copiloto de Programação Python - [Certificado](https://www.dio.me/certificate/DMZHI5LG/share)
-  - Ambiente de Desenvolvimento e Primeiros Passos com Python - [Certificado](https://www.dio.me/certificate/XSQOZERC/share)
-  - Conhecendo a Linguagem de Programação Python - [Certificado](https://www.dio.me/certificate/1GTFETP4/share)
-  - Versionamento de Código com Git e GitHub - [Certificado](https://www.dio.me/certificate/0TAMVZ2W/share)
-  - Contribuindo em um Projeto Open Source no GitHub - [Certificado](https://www.dio.me/certificate/3HRMMM1R/share)
-  - Aula Inaugural: Python AI Backend Developer - [Certificado](https://www.dio.me/certificate/WTSCKQYM/share)
-  - Python Essencial e Desenvolvimento Colaborativo com Git - [Certificado](https://www.dio.me/certificate/JEDLAPKJ/share)
-  - Tipos de Operadores com Python - [Certificado](https://www.dio.me/certificate/K0HAKMUK/share)
-  - Estruturas Condicionais e de Repetição em Python - [Certificado](https://www.dio.me/certificate/MRU97E5C/share)
-  - Manipulando Strings com Python - [Certificado](https://www.dio.me/certificate/C8EFTCRJ/share)
-  - Criando um Sistema Bancário com Python - [Certificado](https://www.dio.me/certificate/ZOCZZXEO/share)
-  - Trabalhando com Listas em Python - [Certificado](https://www.dio.me/certificate/HOXM7CZ4/share)
-  - Conhecendo Tuplas em Python - [Certificado](https://www.dio.me/certificate/JGBVC2CT/share)
-  - Explorando Conjuntos em Python - [Certificado](https://www.dio.me/certificate/GF3FUTCN/share)
-  - Aprendendo a Utilizar Dicionários em Python - [Certificado](https://www.dio.me/certificate/HGHYOOIR/share)
-  - Dominando Funções Python - [Certificado](https://www.dio.me/certificate/FAXONVXH/share)
-  - Otimizando o Sistema Bancário com Funções Python - [Certificado](https://www.dio.me/certificate/GMOE5OME/share)
-  - Dominando Python e Suas Estruturas de Dados - [Certificado](https://www.dio.me/certificate/Z6KZFXCW/share)
-  - Introdução à Programação Orientada a Objetos (POO) com Python - [Certificado](https://www.dio.me/certificate/4LPN798B/share)
-  - Aprendendo o Conceito de Herança com Python - [Certificado](https://www.dio.me/certificate/ZLWRJPPM/share)
+  - Python Essencial e Desenvolvimento Colaborativo com Git - [Certificado - 10 Hs](https://www.dio.me/certificate/JEDLAPKJ/share)
+    - Ambiente de Desenvolvimento e Primeiros Passos com Python - [Certificado](https://www.dio.me/certificate/XSQOZERC/share)
+    - Conhecendo a Linguagem de Programação Python - [Certificado](https://www.dio.me/certificate/1GTFETP4/share)
+    - Versionamento de Código com Git e GitHub - [Certificado](https://www.dio.me/certificate/0TAMVZ2W/share)
+    - Desafios de Projetos: Crie Um Portfólio Vencedor - [Certificado](https://www.dio.me/certificate/KXZITABS/share)
+    - Contribuindo em um Projeto Open Source no GitHub - [Certificado](https://www.dio.me/certificate/3HRMMM1R/share)
+    - Aula Inaugural: Python AI Backend Developer - [Certificado](https://www.dio.me/certificate/WTSCKQYM/share)
+
+  - Dominando Python e Suas Estruturas de Dados - [Certificado - 14 Hs](https://www.dio.me/certificate/Z6KZFXCW/share)
+    - Tipos de Operadores com Python - [Certificado](https://www.dio.me/certificate/K0HAKMUK/share)
+    - Estruturas Condicionais e de Repetição em Python - [Certificado](https://www.dio.me/certificate/MRU97E5C/share)
+    - Manipulando Strings com Python - [Certificado](https://www.dio.me/certificate/C8EFTCRJ/share)
+    - Criando um Sistema Bancário com Python - [Certificado](https://www.dio.me/certificate/ZOCZZXEO/share)
+    - Trabalhando com Listas em Python - [Certificado](https://www.dio.me/certificate/HOXM7CZ4/share)
+    - Conhecendo Tuplas em Python - [Certificado](https://www.dio.me/certificate/JGBVC2CT/share)
+    - Explorando Conjuntos em Python - [Certificado](https://www.dio.me/certificate/GF3FUTCN/share)
+    - Aprendendo a Utilizar Dicionários em Python - [Certificado](https://www.dio.me/certificate/HGHYOOIR/share)
+    - Dominando Funções Python - [Certificado](https://www.dio.me/certificate/FAXONVXH/share)
+    - Desafio de Projeto: Otimizando o Sistema Bancário com Funções Python - [Certificado](https://www.dio.me/certificate/GMOE5OME/share)
+    - Desafio de Código: Dominando os Fundamentos Básicos do Python - [Diretório](https://github.com/Lelebertoldi/desafios_de_codigo_DIO)
+  
+  - Orientação a Objetos e Boas Práticas em Python - 
+    - Introdução à Programação Orientada a Objetos (POO) com Python - [Certificado](https://www.dio.me/certificate/4LPN798B/share)
+    - Aprendendo o Conceito de Herança com Python - [Certificado](https://www.dio.me/certificate/ZLWRJPPM/share)
     
  
     
