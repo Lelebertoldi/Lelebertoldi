@@ -103,6 +103,8 @@
   - Orientação a Objetos e Boas Práticas em Python - (Cursando)
     - Introdução à Programação Orientada a Objetos (POO) com Python - [Certificado](https://www.dio.me/certificate/4LPN798B/share)
     - Aprendendo o Conceito de Herança com Python - [Certificado](https://www.dio.me/certificate/ZLWRJPPM/share)
+    - Aplicando Encapsulamento em Python - [Certificado](https://www.dio.me/certificate/IGAJPHDX/share)
+    - Conhecendo Polimorfismo em Python - [Certificado](https://www.dio.me/certificate/WV3LZTWJ/share)
     
  
     
