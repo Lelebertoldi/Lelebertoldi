@@ -105,6 +105,8 @@
     - Aprendendo o Conceito de Herança com Python - [Certificado](https://www.dio.me/certificate/ZLWRJPPM/share)
     - Aplicando Encapsulamento em Python - [Certificado](https://www.dio.me/certificate/IGAJPHDX/share)
     - Conhecendo Polimorfismo em Python - [Certificado](https://www.dio.me/certificate/WV3LZTWJ/share)
+    - Interfaces e Classes Abstratas com Python - [Certificado](https://www.dio.me/certificate/O4V8KNSN/share)
+    - Modelando o Sistema Bancário em POO com Python - [Certificado](https://www.dio.me/certificate/F34VA5TG/share)
     
  
     
