@@ -108,6 +108,7 @@
     - Conhecendo Polimorfismo em Python - [Certificado](https://www.dio.me/certificate/WV3LZTWJ/share)
     - Interfaces e Classes Abstratas com Python - [Certificado](https://www.dio.me/certificate/O4V8KNSN/share)
     - Modelando o Sistema Bancário em POO com Python - [Certificado](https://www.dio.me/certificate/F34VA5TG/share)
+    - Decoradores, Iteradores e Geradores com Python - [Certificado](https://www.dio.me/certificate/6YH2QTCT/share)
     
  
     
