@@ -113,7 +113,24 @@
  
     
 - <img width=5% src="https://hermes.dio.me/tracks/be43294e-4b68-43b0-9f03-d4221f293c45.png"/> Desenvolvimento Java com IA (Cursando)
+
 - <img width=5% src="https://hermes.dio.me/tracks/533ac6c6-f653-40e1-8050-da19cd540fa4.png"/> Data Analytics com Power BI (Cursando)
+
+- <img width=5% src="https://hermes.dio.me/tracks/72f36aaa-f969-4063-97d3-a2ea61b4114a.png"/> Bootcamp Nexa - Machine Learning para Iniciantes na AWS - [Certificado - 10 Hs](https://www.dio.me/certificate/ILVKS9UX/share)
+  - Fundamentos de Machine Learning e IAs Generativas - [Certificado - 6 Hs](https://www.dio.me/certificate/VCUOVODZ/share)
+    - Algoritmos e Aprendizado de Máquina - [Certificado](https://www.dio.me/certificate/TUSF0ZJJ/share)
+    - Processamento de Linguagem Natural - [Certificado](https://www.dio.me/certificate/2WTBGV76/share)
+    - O que são IAs Generativas - [Certificado](https://www.dio.me/certificate/PDYQOE2N/share)
+    - Aula Inaugural: Bootcamp Nexa - Machine Learning para Iniciantes na AWS - [Certificado](https://www.dio.me/certificate/FE95YZ6R/share)
+
+  - Machine Learning Sem Código com Amazon SageMaker Canvas - [Certificado - 10 Hs](https://www.dio.me/certificate/FC58W4EQ/share)
+    - Introdução ao Desenvolvimento Low-Code - [Certificado](https://www.dio.me/certificate/VSAMOMCC/share)
+    - Introdução ao SageMaker Canvas: IA Generativa Sem Código - [Certificado](https://www.dio.me/certificate/HEMIJJTI/share)
+    - Transformando Dados em Insights com SageMaker Canvas - [Certificado](https://www.dio.me/certificate/0YYU7OWA/share)
+    - Desafios de Código: Aperfeiçoe Sua Lógica e Pensamento Computacional - [Certificado](https://www.dio.me/certificate/MZDBCP0O/share)
+    - Desafio de Código: Explorando o SageMaker Canvas com Lógica de Programação - [Diretório](https://github.com/Lelebertoldi/desafios_de_codigo_DIO)
+    - Desafios de Projetos: Crie Um Portfólio Vencedor - [Certificado](https://www.dio.me/certificate/KXZITABS/share)
+    - Desafios de Projetos: Previsão de Estoque Inteligente na AWS com Sagemaker Canvas - [Certificado](https://www.dio.me/certificate/WMWONQEA/share)
 
 ---
 ## <img width=8% src="https://ada-comunidade-workspace-prd-bucket.s3.sa-east-1.amazonaws.com/public/workspace/public/logo-small.png"/> Santander Open Academy / Ada Tech 
