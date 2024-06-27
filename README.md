@@ -109,10 +109,10 @@
     - Interfaces e Classes Abstratas com Python - [Certificado](https://www.dio.me/certificate/O4V8KNSN/share)
     - Modelando o Sistema Bancário em POO com Python - [Certificado](https://www.dio.me/certificate/F34VA5TG/share)
     - Decoradores, Iteradores e Geradores com Python - [Certificado](https://www.dio.me/certificate/6YH2QTCT/share)
-    - Lidando com Data, Hora e Fuso Horário no Python -
-    - Manipulando Arquivos em Python -
-    - Gerenciamento de Pacotes, Convenções e Boas Práticas Python -
-    - Desafio de Código: Explorando POO com Python - 
+    - Lidando com Data, Hora e Fuso Horário no Python - [Certificado](https://www.dio.me/certificate/AEKG5HM4/share)
+    - Manipulando Arquivos em Python - [Certificado](
+    - Gerenciamento de Pacotes, Convenções e Boas Práticas Python - [Certificado](
+    - Desafio de Código: Explorando POO com Python - [Certificado](
     
  
     
