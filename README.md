@@ -112,7 +112,7 @@
     - Lidando com Data, Hora e Fuso Horário no Python - [Certificado](https://www.dio.me/certificate/AEKG5HM4/share)
     - Manipulando Arquivos em Python - [Certificado](
     - Gerenciamento de Pacotes, Convenções e Boas Práticas Python - [Certificado](
-    - Desafio de Código: Explorando POO com Python - [Certificado](
+    - Desafio de Código: Explorando POO com Python - [Diretório](https://github.com/Lelebertoldi/desafios_de_codigo_DIO)
     
  
     
