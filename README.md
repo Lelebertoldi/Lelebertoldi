@@ -101,7 +101,7 @@
     - Desafio de Projeto: Otimizando o Sistema Bancário com Funções Python - [Certificado](https://www.dio.me/certificate/GMOE5OME/share)
     - Desafio de Código: Dominando os Fundamentos Básicos do Python - [Diretório](https://github.com/Lelebertoldi/desafios_de_codigo_DIO)
   
-  - Orientação a Objetos e Boas Práticas em Python - (Cursando)
+  - Orientação a Objetos e Boas Práticas em Python - [Certificado - 11 Hs](https://www.dio.me/certificate/QTPYPWNF/share)
     - Introdução à Programação Orientada a Objetos (POO) com Python - [Certificado](https://www.dio.me/certificate/4LPN798B/share)
     - Aprendendo o Conceito de Herança com Python - [Certificado](https://www.dio.me/certificate/ZLWRJPPM/share)
     - Aplicando Encapsulamento em Python - [Certificado](https://www.dio.me/certificate/IGAJPHDX/share)
@@ -114,7 +114,23 @@
     - Gerenciamento de Pacotes, Convenções e Boas Práticas Python - [Certificado](https://www.dio.me/certificate/BUZKXYXR/share)
     - Desafio de Código: Explorando POO com Python - [Diretório](https://github.com/Lelebertoldi/desafios_de_codigo_DIO)
     
- 
+  - Banco de Dados SQL e NoSQL Para Devs Backend - (Cursando)
+    - Introdução a Banco de Dados Relacionais (SQL) - [Certificado](
+    - Introdução a Banco de Dados NoSQL - [Certificado](
+    - Explorando Banco de Dados Relacionais com Python DB API - [Certificado](
+    
+  - Explorando o FastAPI na Prática com TDD - (Cursando)
+    - Introdução ao Desenvolvimento Web com Python - [Certificado](
+    - Desenvolvendo sua Primeira API com FastAPI, Python e Docker - [Certificado](
+    - Criando Uma API Com FastAPI Utilizando TDD - [Certificado](
+    
+  - Desmistificando os Pilares da Inteligência Artificial (IA) - (Cursando)
+    - Aplicações Práticas da Inteligência Artificial - [Certificado](
+    - Algoritmos e Aprendizado de Máquina - [Certificado](https://www.dio.me/certificate/TUSF0ZJJ/share)
+    - Processamento de Linguagem Natural - [Certificado](https://www.dio.me/certificate/2WTBGV76/share)
+    - Visão Computacional - [Certificado](
+    - O que são IAs Generativas - [Certificado](https://www.dio.me/certificate/PDYQOE2N/share)
+    - Natural ou Fake Natty? Como Vencer na Era das IAs Generativas! - [Certificado](https://www.dio.me/certificate/TRJY30QP/share)
     
 - <img width=5% src="https://hermes.dio.me/tracks/be43294e-4b68-43b0-9f03-d4221f293c45.png"/> Desenvolvimento Java com IA (Cursando)
 
