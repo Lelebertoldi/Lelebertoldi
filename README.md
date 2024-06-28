@@ -110,7 +110,7 @@
     - Modelando o Sistema Bancário em POO com Python - [Certificado](https://www.dio.me/certificate/F34VA5TG/share)
     - Decoradores, Iteradores e Geradores com Python - [Certificado](https://www.dio.me/certificate/6YH2QTCT/share)
     - Lidando com Data, Hora e Fuso Horário no Python - [Certificado](https://www.dio.me/certificate/AEKG5HM4/share)
-    - Manipulando Arquivos em Python - [Certificado](
+    - Manipulando Arquivos em Python - [Certificado](https://www.dio.me/certificate/SMTBFIKO/share)
     - Gerenciamento de Pacotes, Convenções e Boas Práticas Python - [Certificado](
     - Desafio de Código: Explorando POO com Python - [Diretório](https://github.com/Lelebertoldi/desafios_de_codigo_DIO)
     
