@@ -124,7 +124,7 @@
     - Desenvolvendo sua Primeira API com FastAPI, Python e Docker - [Certificado](
     - Criando Uma API Com FastAPI Utilizando TDD - [Certificado](
     
-  - Desmistificando os Pilares da Inteligência Artificial (IA) - (Certificado - 8 Hs](https://www.dio.me/certificate/7ZAU3L86/share)
+  - Desmistificando os Pilares da Inteligência Artificial (IA) - [Certificado - 8 Hs](https://www.dio.me/certificate/7ZAU3L86/share)
     - Aplicações Práticas da Inteligência Artificial - [Certificado](https://www.dio.me/certificate/TIBSHHDE/share)
     - Algoritmos e Aprendizado de Máquina - [Certificado](https://www.dio.me/certificate/TUSF0ZJJ/share)
     - Processamento de Linguagem Natural - [Certificado](https://www.dio.me/certificate/2WTBGV76/share)
