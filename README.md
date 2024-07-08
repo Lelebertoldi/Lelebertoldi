@@ -115,7 +115,7 @@
     - Desafio de Código: Explorando POO com Python - [Diretório](https://github.com/Lelebertoldi/desafios_de_codigo_DIO)
     
   - Banco de Dados SQL e NoSQL Para Devs Backend - (Cursando)
-    - Introdução a Banco de Dados Relacionais (SQL) - [Certificado](
+    - Introdução a Banco de Dados Relacionais (SQL) - [Certificado](https://www.dio.me/certificate/RZK8V0I0/share)
     - Introdução a Banco de Dados NoSQL - [Certificado](
     - Explorando Banco de Dados Relacionais com Python DB API - [Certificado](
     
