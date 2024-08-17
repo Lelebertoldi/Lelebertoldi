@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:6A5ACD,100:800080&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=800080&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Letícia+Bertoldi+👋🏻;:%29)](https://git.io/typing-svg)
 
@@ -6,6 +6,9 @@
 ---
 > Me chamo Letícia, tenho 35 anos e estou em transição de carreira da área de Biologia para a área Tech. Atualmente estou iniciando meus estudos em Ciência de Dados na Universidade Unifael e faço vários cursos complementares, para expandir meu conhecimento e minhas opções.
 
+---
+# [Índice dos meus repositórios](https://github.com/Lelebertoldi/indice/blob/main/README.md)
+---
 # 💌 Conecte-se comigo 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=border_radius&logo=linkedin&logoColor=purple)](https://www.linkedin.com/in/lelebertoldi/) 
@@ -175,7 +178,7 @@
 ---
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:6A5ACD,100:800080&height=120&section=footer"/>
 
 <!---
 Lelebertoldi/Lelebertoldi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
