@@ -24,7 +24,6 @@
 ![Python](https://img.shields.io/badge/Python-000?style=border_radius&logo=python&logoColor=purple)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=border_radius&logo=javascript&logoColor=purple)
 ![AWS](https://img.shields.io/badge/AWS-black?style=border_radius&logo=amazon-aws&logoColor=purple)
-![Java](https://img.shields.io/badge/java-black?style=border_radius&logo=openjdk&logoColor=purple)
 ![VSCode](https://img.shields.io/badge/VSCode-black?style=border_radius&logo=visual-studio-code&logoColor=purple)
 ![PowerBi](https://img.shields.io/badge/Power_Bi-000?styleborder_radius&logo=powerbi&logoColor=purple)
 ![SQL](https://img.shields.io/badge/SQL-000?styleborder_radius&logo=sql&logoColor=purple)
