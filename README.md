@@ -4,7 +4,7 @@
 
 
 ---
-> Me chamo Letícia, tenho 35 anos e estou em transição de carreira da área de Biologia para a área Tech. Atualmente estou iniciando meus estudos em Ciência de Dados na Universidade Unifael e faço vários cursos complementares, para expandir meu conhecimento e minhas opções.
+> Me chamo Letícia, tenho 35 anos, e estou em transição de carreira, mudando minha área de estudos de Biologia para o setor de Tecnologia. Atualmente, estou totalmente focada em expandir meus conhecimentos na área de Tecnologia. Estou graduando em Ciência de Dados na Universidade Unifael e consegui uma bolsa de estudos em Engenharia de Dados na ADA Tech, em parceria com o Santander Academy. Além desses compromissos acadêmicos, também participo de diversos cursos complementares, incluindo bootcamps oferecidos pela DIO, para aprofundar e diversificar meu aprendizado. Estou entusiasmada com esta nova fase e comprometida em aplicar minhas habilidades e conhecimentos adquiridos para contribuir no campo da tecnologia.
 
 ---
 # 🗂 [Índice dos meus repositórios](https://github.com/Lelebertoldi/indice/blob/main/README.md)
