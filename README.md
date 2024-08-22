@@ -34,7 +34,7 @@
 ---
 # 🏆📚 Estudos Tech
 ---
-## 🎓 <img width=10% src="https://asprars.org.br/uploads/parceiros/d9c9777bd7a7accebe02f6f9e7e3ac5c.jpeg"/> Unifael - Ciências de Dados - Graduação 
+## 🎓 <img width=10% src="https://asprars.org.br/uploads/parceiros/d9c9777bd7a7accebe02f6f9e7e3ac5c.jpeg"/> [Unifael - Ciências de Dados - Graduação](https://github.com/Lelebertoldi/aulas_Unifael) 
 
 ### 1º Período (Cursando)
 
@@ -44,6 +44,28 @@
 - Gestão de Times - Métodos Ágeis (Gestão Ágil de Projetos)
 - Introdução Ao Coding (Web)
 - Introdução Ao Coding (Mobile)
+
+### 2º Período
+
+- Língua Brasileira de Sinais - Libras (Disciplina Optativa)
+- Atividades Práticas Interdisciplinares de Extensão I
+- Empreendedorismo
+- Fundamentos em Data Science e Análise Estatística de Dados
+- Gerenciamento de Projetos
+- Machine Learning e Aprendizagem Profunda
+- Organização, Arquitetura e Redes de Computadores
+
+### 3º Período
+
+- Atividades Práticas Interdisciplinares de Extensão II
+- Banco de Dados
+- Engenharia e Banco de Dados Aplicado
+- Infraestrutura de Data Science e Cloud Computing
+- Iot (Wearables) - Programação com Arduino
+- Laboratório de Projetos Inovadores
+- Programação, Estrutura e Mineração de Dados
+- Optativa I
+- Optativa II
 
 ---
 ## <img width=10% src="https://hotmart.s3.amazonaws.com/product_pictures/8a3debf4-82f0-4521-b17d-9799e456708d/DATAMUNDOLOGO2.png"/>
