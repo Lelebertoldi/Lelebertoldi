@@ -40,7 +40,7 @@
 
 - Ensino Digital - Média - 9
 - Inteligência Analítica - Média - 8,25
-- Desenvolvimento Sustentável e Direitos Individuais
+- Desenvolvimento Sustentável e Direitos Individuais - Média - 10
 - Gestão de Times - Métodos Ágeis (Gestão Ágil de Projetos)
 - Introdução Ao Coding (Web)
 - Introdução Ao Coding (Mobile)
